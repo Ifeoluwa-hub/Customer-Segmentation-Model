@@ -5,6 +5,6 @@ RFM Analysis is a data-driven customer segmentation technique that aims to clust
 
 The result of this Analysis can help businesses to identify their customer's behavior and also make decisons based on these attributes.
 
-About the project: For the purpose of this project, I will be an RFM model using an Online Retail Listing data set found on Kaggle 
+About the project: For the purpose of this project, I will be building an RFM model using an Online Retail Listing dataset found on Kaggle 
 
 Link to Dataset: https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing
